@@ -22,8 +22,8 @@
 
 ### Studying in this moment:
  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-<div align="center">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/Java-5381a1?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
