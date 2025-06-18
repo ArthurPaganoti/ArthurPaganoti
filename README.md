@@ -2,7 +2,7 @@
 
 I’m a 21‑year‑old Computer Science student in my final year.  
 I currently work as a developer at **WildMC** (a gaming server), where my main focus has been creating an API to integrate with other applications.  
-Although I code frequently, my core interests lie in **networking** and **information security**.
+Although I code frequently, my core interests lie in **networking** and **information security**—I enjoy performing various penetration tests, exploring ethical hacking tools and OSINT techniques, and experimenting with network attacks. I’m deeply passionate about network and security studies.
 
 ---
 
