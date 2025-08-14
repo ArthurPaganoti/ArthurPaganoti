@@ -1,6 +1,5 @@
 # Hi, I’m Arthur Paganoti (Art) 👋
 
-I’m a 21‑year‑old Computer Science student in my final year.  
 ---
 
 ## 🛠️ Tech & Tools
