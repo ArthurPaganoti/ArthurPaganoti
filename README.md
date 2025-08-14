@@ -1,9 +1,6 @@
 # Hi, I’m Arthur Paganoti (Art) 👋
 
 I’m a 21‑year‑old Computer Science student in my final year.  
-I currently work as a developer at **WildMC** (a gaming server), where my main focus has been creating an API to integrate with other applications.  
-Although I code frequently, my core interests lie in **networking** and **information security** I enjoy performing various penetration tests, exploring ethical hacking tools and OSINT techniques, and experimenting with network attacks. I’m deeply passionate about network and security studies.
-
 ---
 
 ## 🛠️ Tech & Tools
@@ -33,13 +30,5 @@ Although I code frequently, my core interests lie in **networking** and **inform
 
 ---
 
-## 🔍 About Me
-
-- 🎓 Final‑year Computer Science student  
-- 💼 Developer at WildMC  
-- 🔧 API development & app integration  
-- 🌐 Passionate about networking & information security  
-
----
 
 Thanks for visiting! If you'd like to collaborate or chat, feel free to reach out via email or LinkedIn 😊.
